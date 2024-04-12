@@ -13,8 +13,8 @@ const char* mqttTopic1 = "jamk/tanque/temperatura1";
 const char* mqttTopic2 = "jamk/tanque/temperatura2";
 
 // Configuración del cliente WiFi
-const char* ssid = "JAMK4";
-const char* password = "JAMK12345";
+const char* ssid = "*******";
+const char* password = "*******";
 AsyncWebServer server(80);
 
 
