@@ -5,7 +5,11 @@
 This project integrates an ESP32 with a WS2812B LED strip and an OLED display to create a visual notification system. The device subscribes to an MQTT channel to receive data and then displays the information on the OLED screen. In addition, it features color-coded LED alerts based on temperature thresholds and can act as a visual notifier for other events in the local network, such as a doorbell ring.
 
 <p align="center">
-<img src="./images/frontal.png" height="300">
+<img src="./images/frontal_2.png" height="300">
+</p>
+
+<p align="center" margin="10px">
+<img src="./images/on.png" height="300">
 </p>
 
 ## Features
