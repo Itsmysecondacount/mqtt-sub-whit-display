@@ -80,3 +80,7 @@ The system is designed to be plug-and-play. Once powered on and configured, it w
 The firmware is open for customization. You can set temperature ranges, display messages, and notification colors as per your requirements.
 
 For further customization, modify the code to handle additional sensors or integrate with other systems in your smart home or office environment.
+
+[Here's how to create a temperature sensor with esp32.](https://github.com/Itsmysecondacount/mqtt-esp32-read-temperature-of-solar-storage)
+
+[Here's how to run and configure an mqtt server.](https://github.com/Itsmysecondacount/mqtt-server-whit-processor/tree/main)
